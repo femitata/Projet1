@@ -1,0 +1,45 @@
+body{
+    background: rgb(109, 117, 196);
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: x-large;
+    opacity: 0.95;
+}
+.text
+{
+    text-align: center;
+}
+
+.card
+{
+background: black;
+color: white;
+padding: 3%;
+}
+
+.bouton{
+    background-color: green;
+    width: 100%;
+    
+}
+.forme{
+    width: 100%;
+    margin: 0.5%;
+}
+.bouton
+{
+    padding: 1%;
+    background-color: green;
+    text-align: center;
+}
+.bouton a
+{
+    text-decoration: none;
+    color: white;
+}
+h4{
+    color: white;
+}
+p{
+    color: white;
+}
